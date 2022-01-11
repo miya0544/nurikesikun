@@ -1,0 +1,13 @@
+{
+    "name": "nurikesikunn",
+    "short_name": "nurikesikunn",
+    "display": "standalone",
+    "start.url":"kamera.html",
+    "icons": [
+        {
+            "src": "/icons/images.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
